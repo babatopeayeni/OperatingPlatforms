@@ -1,4 +1,4 @@
-# OperatingPlatforms
+# Operating Platforms
 
 # The Gaming Room Software Design Document
 
